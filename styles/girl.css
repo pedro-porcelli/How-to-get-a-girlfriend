@@ -1,0 +1,18 @@
+.howtogetone {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.othertext {
+    font-size: 55px;
+}
+
+.list {
+    font-family: 'monospace', Courier, monospace;
+}
+
+body {
+    background-image: url(girls.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
